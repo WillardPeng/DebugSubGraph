@@ -17,4 +17,5 @@ The subgraph has two input parameters:
 2. DecimalDigits (float) : This is the number of decimal digits that the debugged value will display in the subgraph preview.
 
 Here's an example of how it looks:
+
 ![image](https://github.com/WillardPeng/DebugSubGraph/assets/42560230/8a0816ae-8913-48de-b025-76fdd2d9ac44)
