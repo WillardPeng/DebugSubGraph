@@ -1,5 +1,5 @@
 # DebugSubGraph
-This is a Unity SubGraph specifically designed for debugging in the ShaderGraph Window. It's incredibly easy to set up and use.
+This is an Unity SubGraph specifically designed for debugging in the ShaderGraph Window. It's incredibly easy to set up and use.
 
 # Credits
 All the code in this repository is based on the work of [aras-p](https://github.com/aras-p) and [bestknighter](https://github.com/bestknighter) as seen in [DebugNode.hlsl](https://gist.github.com/aras-p/657a4947bb8a4549fda53a84bb91fb25). 
